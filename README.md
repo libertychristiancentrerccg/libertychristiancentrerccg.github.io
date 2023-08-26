@@ -1,2 +1,2 @@
-# summercoding.github.io
-Summer Coding
+# lcc-summer-coding-class.github.io
+LCC RCCG SUMMER CODING CLASS
